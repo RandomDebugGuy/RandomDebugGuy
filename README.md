@@ -54,3 +54,5 @@ As my name suggests, I am a random debugger/developer. I am 13, I am a slow thin
   - Structural designing 
   - Electronics ability (soldering isn't an ability but why not put it here *shrug*)
 </details>
+
+If for any reason you want to reach me, ping `ancheplayzdc` in the <a href="https://discord.gg/rhSNYhpzQH">DeskThing discord server</a>!
