@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-As my name suggests, I am a random debugger/developer. I am 13, I am a slow thinker, a (semi) fast typer, and that's about it.
+As my name suggests, I am a random debugger/developer. I am 14, I am a slow thinker, a (semi) fast typer, and that's about it.
 
 <details>
  <summary>
