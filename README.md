@@ -29,6 +29,7 @@ As my name suggests, I am a random debugger/developer. I am 13, I am a slow thin
  <summary>
   <h1>✨ Programming Skills</h1>
  </summary>
+ 
 > Most comfortable to least comfortable to dont even know what it is: 🟩🟨🟧🟫🟥
  
 - 🟩 JavaScript
