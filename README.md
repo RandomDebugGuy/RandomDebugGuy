@@ -21,8 +21,8 @@ As my name suggests, I am a random debugger/developer. I am 14, I highly enjoy a
  <summary>
   <h1>Projects:</h1>
  </summary>
-- <a target="_blank" href="https://github.com/ItsRiprod/DeskThing"><img src="deskthing.svg" style="width: 5%;"><p>DeskThing</p></a> made and maintained by my guy <a href="https://github.com/ItsRiprod">Riprod</a>
  
+- <a target="_blank" href="https://github.com/ItsRiprod/DeskThing"><img src="deskthing.svg" style="width: 5%;"><p>DeskThing</p></a> made and maintained by my guy <a href="https://github.com/ItsRiprod">Riprod</a>
 - Living life
 </details>
 
