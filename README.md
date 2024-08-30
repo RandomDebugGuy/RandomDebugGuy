@@ -22,6 +22,7 @@ As my name suggests, I am a random debugger/developer. I am 13, I am a slow thin
   <h1>Projects:</h1>
  </summary>
 - <a target="_blank" href="https://github.com/ItsRiprod/DeskThing"><img src="deskthing.svg" style="width: 5%;"><p>DeskThing</p></a> made and naintained by my guy <a href="https://github.com/ItsRiprod">Riprod</a>
+ 
 - Living life
 </details>
 
