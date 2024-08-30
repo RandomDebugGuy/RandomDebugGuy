@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 As my name suggests, I am a random debugger/developer. I am 13, I am a slow thinker, a (semi) fast typer, and that's about it.
 
 ## My current projects:
-- 
+- <a target="_blank" href="https://github.com/ItsRiprod/DeskThing"><img src="deskthing.svg" style="width: 5%;" alt="Click to see the source"> <p>DeskThing</p></a> made and naintained by my guy <a href="https://github.com/ItsRiprod">Riprod</a>
+- Living life
+
