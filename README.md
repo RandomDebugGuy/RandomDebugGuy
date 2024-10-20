@@ -1,4 +1,4 @@
-# Hello developers of all types!
+# Hello developers of all the world!
 
 <!--
 **RandomDebugGuy/RandomDebugGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
