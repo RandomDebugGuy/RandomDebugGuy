@@ -1,4 +1,4 @@
-# Hello there.
+# Hello developers of all types!
 
 <!--
 **RandomDebugGuy/RandomDebugGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-As my name suggests, I am a random debugger/developer. I highly enjoy anything and everything related to computers and networking, and that's about it.
+As my name suggests, I am a random debugger/developer who highly enjoys anything and everything related to computers and networking. And thats about it!
 
 <details>
  <summary>
@@ -23,7 +23,8 @@ As my name suggests, I am a random debugger/developer. I highly enjoy anything a
  </summary>
  
 - <a target="_blank" href="https://github.com/ItsRiprod/DeskThing">DeskThing</a> made and maintained by my guy <a href="https://github.com/ItsRiprod">Riprod</a>
-- Living life
+- <a href="https://github.com/RandomDebugGuy/RedboxHelp">a Redbox info/help site</a> for anyone who owns a Redbox kiosk or, simply wants to know how it works
+- Living life and having fun
 </details>
 
 <details>
@@ -31,7 +32,7 @@ As my name suggests, I am a random debugger/developer. I highly enjoy anything a
   <h1>✨ Programming Skills</h1>
  </summary>
  
-> Most comfortable to least comfortable to don't even know what it is: 🟩🟨🟧🟫🟥
+> Most comfortable to least comfortable to don't even know what it is: 🟩🟨🟧🟫
  
 - 🟩 JavaScript
 - 🟩 TypeScript
@@ -55,4 +56,4 @@ As my name suggests, I am a random debugger/developer. I highly enjoy anything a
   - Electronics ability (soldering isn't an ability but why not put it here *shrug*)
 </details>
 
-If for any reason you want to reach me, ping `ancheplayzdc` in the <a href="https://discord.gg/rhSNYhpzQH">DeskThing discord server</a>!
+If for any reason you want to reach me, ping `ancheplayzdc` in the <a href="https://discord.gg/rhSNYhpzQH">DeskThing discord server</a>, or email me at <a href="mailto:randomdebugguy@gmail.com">RandomDebugGuy@gmail.com</a>!
