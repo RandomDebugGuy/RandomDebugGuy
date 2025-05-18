@@ -22,9 +22,9 @@ As my name suggests, I am a random debugger/developer who highly enjoys anything
   <h1>⚡Projects:</h1>
  </summary>
  
-- <a target="_blank" href="https://github.com/ItsRiprod/DeskThing">DeskThing</a> made and maintained by my guy <a href="https://github.com/ItsRiprod">Riprod</a>
-- <a href="https://github.com/RandomDebugGuy/RedboxHelp">a Redbox info/help site</a> for anyone who owns a Redbox kiosk or, simply wants to know how it works
-- Living life and having fun
+- ~~<a target="_blank" href="https://github.com/ItsRiprod/DeskThing">DeskThing</a> made and maintained by my guy <a href="https://github.com/ItsRiprod">Riprod</a>~~
+- ~~<a href="https://github.com/RandomDebugGuy/RedboxHelp">a Redbox info/help site</a> for anyone who owns a Redbox kiosk or, simply wants to know how it works~~
+- Living life
 </details>
 
 <details>
@@ -36,9 +36,9 @@ As my name suggests, I am a random debugger/developer who highly enjoys anything
  
 - 🟩 JavaScript
 - 🟩 TypeScript
-- 🟫 Java
+- 🟩 Java
 - 🟨 Python
-- 🟧 React
+- 🟨 React
 - 🟨 HTML
 - 🟨 CSS
 - 🟧 C++
@@ -56,4 +56,4 @@ As my name suggests, I am a random debugger/developer who highly enjoys anything
   - Electronics ability (soldering isn't an ability but why not put it here *shrug*)
 </details>
 
-If for any reason you want to reach me, ping `ancheplayzdc` in the <a href="https://discord.gg/rhSNYhpzQH">DeskThing discord server</a>, or email me at <a href="mailto:randomdebugguy@gmail.com">RandomDebugGuy@gmail.com</a>!
+If for any reason you want to reach me, email me at <a href="mailto:randomdebugguy@gmail.com">RandomDebugGuy@gmail.com</a>. I will respond in less than 2 weeks!
