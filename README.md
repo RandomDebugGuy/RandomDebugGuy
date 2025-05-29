@@ -56,4 +56,4 @@ As my name suggests, I am a random debugger/developer who highly enjoys anything
   - Electronics ability (soldering isn't an ability but why not put it here *shrug*)
 </details>
 
-If for any reason you want to reach me, email me at <a href="mailto:randomdebugguy@gmail.com">RandomDebugGuy@gmail.com</a>. I will respond in less than 2 weeks!
+If for any reason you want to reach me, email me at <a href="mailto:randomdebugguy@gmail.com">RandomDebugGuy@gmail.com</a>. I will respond wihin a few days!
