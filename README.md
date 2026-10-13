@@ -37,6 +37,7 @@ As my name suggests, I am a random debugger/developer who highly enjoys anything
 - 🟩 JavaScript
 - 🟩 TypeScript
 - 🟩 Java
+- 🟨 Rust
 - 🟨 Python
 - 🟨 React
 - 🟨 HTML
@@ -52,7 +53,6 @@ As my name suggests, I am a random debugger/developer who highly enjoys anything
   </summary>
  
   - 3D designing/printing
-  - Structural engineering (not confident)
   - Electronics ability (soldering isn't an ability but why not put it here *shrug*)
 </details>
 
